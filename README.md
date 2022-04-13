@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [fedsim](https://fedsim.io)
 
-- 👨‍💻 All of my projects are available at [aaronlote.com](https://aaronlote.com)
-
 - 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **aaron.lote@gmail.com**
