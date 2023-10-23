@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azz0r" alt="azz0r" /> </p>
 
-- 🔭 I’m currently working on [fedsim](https://fedsim.io)
+- 🔭 I’m currently working on [fedsim](https://fedsim.io) & [fedsimX](https://fedsimx.com) & 
 
 - 💬 Ask me about **react, javascript**
 
